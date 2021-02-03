@@ -22,4 +22,4 @@ subplot(211);
 plot(t,xt,'b');
 title("Message signal");
 xlabel("Time");
-ylabel("Amplitude");
+ylabel("x(t)");
